@@ -54,8 +54,9 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### JavaScript
 
- - Open `index.html` in a web browser.
- - Open the console(you can use shortcut: Shift + ⌘ + J (on macOS) or Shift + CTRL + J (on Windows/Linux)
+- Open `index.html` in a web browser.
+- Open the developer console (shortcut: Shift + ⌘ + J on macOS or Shift + CTRL + J on Windows/Linux) to start playing the game.
+
 
 
 Ensure you have the required tools installed for the language you intend to use.
