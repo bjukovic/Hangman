@@ -81,15 +81,14 @@ Ensure you have the required tools installed for the language you intend to use.
 ```
 hangman-game/
 ├── CSharp/          # C# implementation
-│   ├── Program.cs
-│   └── ...
+│   └──  Program.cs   (In Progress)
+│   
 ├── Python/          # Python implementation
-│   ├── hangman.py
-│   └── ...
+│   └──  hangman.py   (In Progress)
+│   
 └── JavaScript/      # JavaScript implementation
-    ├── index.html
-    ├── hangman.js
-    └── ...
+    ├── index.html   (In Progress)
+    └──  hangman.js   (In Progress)
 ```
 
 ## Contributing
