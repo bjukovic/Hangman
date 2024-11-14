@@ -9,7 +9,6 @@ This repository consists of three separate implementations of the classic Hangma
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 
 
 ## About the Game
@@ -90,8 +89,5 @@ hangman/
     └── hangman.py    (In Progress)
 ```
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 This project was made for course Programming Languages CS305 in the Fall semester of 2024/2025 academic year.
