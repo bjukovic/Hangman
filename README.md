@@ -5,6 +5,7 @@ This repository consists of three separate implementations of the classic Hangma
 
 ## Table of Contents
 - [About the Game](#about-the-game)
+- [Project Goals](#project-goals)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
@@ -15,7 +16,7 @@ This repository consists of three separate implementations of the classic Hangma
 
 **Hangman** is a classic word-guessing game usually played between two or more players. In this game, one player selects a random word, and the other(s) try to guess it by entering individual letters. Each correct guess reveals the letter's position(s) within the word, while each incorrect guess deducts an attempt. The game ends either when the player successfully guesses the entire word or runs out of attempts. The game is called "Hangman" because, traditionally, each incorrect guess adds a part to a drawing of a hanging figure. Once the drawing is complete, representing the loss of all attempts, the player loses the game.
 
-### Project Goals
+## Project Goals
 
 The main goals of this project are to:
 - **Provide a fun, interactive game experience** that can be played from the console.
