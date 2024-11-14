@@ -37,6 +37,14 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 - In the terminal you should verify the installation
 - Run the console application
 
+- *Verify Installation**:
+  - Open a terminal or command prompt.
+  - Run the command:
+    ```bash
+    dotnet --version
+    ```
+  - If installed correctly, this command should display the installed .NET SDK version.
+
 ### Python
 
 - **Python 3.x**: Download and install [Python 3.x](https://www.python.org/downloads/). You can verify the installation by running `python --version` in your terminal.
