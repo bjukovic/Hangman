@@ -11,7 +11,6 @@ This repository consists of three separate implementations of the classic Hangma
   - [Sample Gameplay](#sample-gameplay)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## About the Game
@@ -48,7 +47,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### Python
 
-- Install Python 3 on your device (Windows/Mac OS/Linux) to execute Python code. You can find installation guidance and the download link [here](https://www.python.org/downloads/).
+- Install **Python 3** on your device (Windows/Mac OS/Linux) to execute Python code. You can find installation guidance and the download link [here](https://www.python.org/downloads/).
 -  Confirm the installation by running `python --version` or `python3 --version` in the terminal.
 - Navigate to the root directory of the Python project and execute the application with:
    ```bash
@@ -57,15 +56,13 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### JavaScript
 
- - Install Node.js on your device (Windows/Mac OS/Linux), which is required to execute server-side JavaScript. Installation instructions and download link can be found [here](https://nodejs.org/).
+ - Install **Node.js** on your device (Windows/Mac OS/Linux), which is required to execute server-side JavaScript. Installation instructions and download link can be found [here](https://nodejs.org/).
  - Verify the installation by running `node --version` in the terminal.
  - Go to the root directory of the JavaScript project and run the application file using:
     ```bash
    node currencyConverter.js
     ```
 
-
----
 
 Ensure you have the required tools installed for the language you intend to use.
 
