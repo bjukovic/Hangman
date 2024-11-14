@@ -15,6 +15,14 @@ This repository consists of three separate implementations of the classic Hangma
 
 **Hangman** is a classic word-guessing game usually played between two or more players. In this game, one player selects a random word, and the other(s) try to guess it by entering individual letters. Each correct guess reveals the letter's position(s) within the word, while each incorrect guess deducts an attempt. The game ends either when the player successfully guesses the entire word or runs out of attempts. The game is called "Hangman" because, traditionally, each incorrect guess adds a part to a drawing of a hanging figure. Once the drawing is complete, representing the loss of all attempts, the player loses the game.
 
+### Project Goals
+
+The main goals of this project are to:
+- **Provide a fun, interactive game experience** that can be played from the console.
+- **Demonstrate language-specific implementations** across three different languages: C#, Python, and JavaScript.
+- **Encourage learning and practice** with basic programming constructs, such as loops, conditionals, and functions, as well as language-specific libraries and methods.
+
+
 ## Features
 
 - **Cross-platform compatibility**: Playable in C#, Python, and JavaScript.
