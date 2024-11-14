@@ -1,4 +1,4 @@
-This project is still in development
+This project is still in development.
 # Hangman Game
 
 This repository consists of three separate implementations of the classic Hangman game in C#, Python, and JavaScript. Each version offers a console-based game where players guess letters to reveal a hidden word within a limited number of attempts. This project demonstrates language-specific approaches to the same game logic, providing a great reference for multi-language programming.
