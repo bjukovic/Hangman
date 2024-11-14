@@ -78,15 +78,15 @@ Ensure you have the required tools installed for the language you intend to use.
 
 ```
 hangman/
-├── C#/               # C# implementation
-│   └── hangman.cs    (In Progress)
+├── C#/               # C# implementation (In Progress)
+│   └── hangman.cs    
 │   
-├── JavaScript/       # JavaScript implementation
-│   ├── index.html    (In Progress)
-│   └── hangman.js    (In Progress)
+├── JavaScript/       # JavaScript implementation (In Progress)
+│   ├── index.html    
+│   └── hangman.js    
 │   
-└── Python/           # Python implementation
-    └── hangman.py    (In Progress)
+└── Python/           # Python implementation (In Progress)
+    └── hangman.py    
 ```
 
 
