@@ -38,7 +38,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
     dotnet --version
     ```
   - If installed correctly, this command should display the installed .NET SDK version.
-- Run the console application
+- Navigate to the root folder of the project in C# and run the console application
    ```bash
     dotnet run
     ```
