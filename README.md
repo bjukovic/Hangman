@@ -55,7 +55,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### JavaScript
 
- Open `index.html` in a web browser.
+ - Open `index.html` in a web browser.
 
 
 Ensure you have the required tools installed for the language you intend to use.
