@@ -8,7 +8,6 @@ This repository consists of three separate implementations of the classic Hangma
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
-  - [Sample Gameplay](#sample-gameplay)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 
