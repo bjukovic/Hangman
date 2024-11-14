@@ -79,9 +79,9 @@ Ensure you have the required tools installed for the language you intend to use.
 ## Project Structure
 
 ```
-hangman-game/
-├── CSharp/          # C# implementation
-│   └──  Program.cs   (In Progress)
+hangman/
+├── C#/          # C# implementation
+│   └──  hangman.cs   (In Progress)
 │   
 ├── Python/          # Python implementation
 │   └──  hangman.py   (In Progress)
