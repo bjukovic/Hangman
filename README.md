@@ -19,7 +19,7 @@ This repository consists of three separate implementations of the classic Hangma
 
 ## About the Game
 
-**Hangman** is a word-guessing game usually played between two or more players, where one player selects a random word and the other tries to guess what word is it. The player attempts to guess it by entering letters, with each correct guess revealing the letter’s position(s) in the word. If a guessed letter is incorrect (the word does not have it), an attempt is deducted. The game ends when the player either successfully guesses the word or runs out of attempts. The game is called hangman because for each wrong guess a human body part is drawn, when there are no attempts left, there is nothing left to draw.
+**Hangman** is a classic word-guessing game usually played between two or more players. In this game, one player selects a random word, and the other(s) try to guess it by entering individual letters. Each correct guess reveals the letter's position(s) within the word, while each incorrect guess deducts an attempt. The game ends either when the player successfully guesses the entire word or runs out of attempts. The game is called "Hangman" because, traditionally, each incorrect guess adds a part to a drawing of a hanging figure. Once the drawing is complete, representing the loss of all attempts, the player loses the game.
 
 ## Features
 
