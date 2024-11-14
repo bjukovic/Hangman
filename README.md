@@ -48,22 +48,21 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### Python
 
-To run the application in Python, follow these steps:
-
-1. Install Python 3 on your device (Windows/Mac OS/Linux) to execute Python code. You can find installation guidance and the download link [here](https://www.python.org/downloads/).
-2. Confirm the installation by running `python --version` or `python3 --version` in the terminal.
-3. Navigate to the root directory of the Python project and execute the application with:
+- Install Python 3 on your device (Windows/Mac OS/Linux) to execute Python code. You can find installation guidance and the download link [here](https://www.python.org/downloads/).
+-  Confirm the installation by running `python --version` or `python3 --version` in the terminal.
+- Navigate to the root directory of the Python project and execute the application with:
    ```bash
    python currency_converter.py
+   ```
 
 ### JavaScript
 
-To run the JavaScript application, follow these steps:
- -Install Node.js on your device (Windows/Mac OS/Linux), which is required to execute server-side JavaScript. Installation instructions and download link can be found [here](https://nodejs.org/).
- -Verify the installation by running `node --version` in the terminal.
- -Go to the root directory of the JavaScript project and run the application file using:
+ - Install Node.js on your device (Windows/Mac OS/Linux), which is required to execute server-side JavaScript. Installation instructions and download link can be found [here](https://nodejs.org/).
+ - Verify the installation by running `node --version` in the terminal.
+ - Go to the root directory of the JavaScript project and run the application file using:
     ```bash
    node currencyConverter.js
+    ```
 
 
 ---
