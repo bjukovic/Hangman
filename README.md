@@ -21,7 +21,7 @@ This repository consists of three separate implementations of the classic Hangma
 The main goals of this project are to:
 - **Provide a fun, interactive game experience** that can be played from the console.
 - **Cross-Language Comparison**: Demonstrate how the same problem can be solved in multiple programming languages, highlighting differences in syntax, structure, and libraries between C#, Python, and JavaScript.
-- **Learn through practical work**: This project helped us understand programming concepts in a practical way by building a functional game from scratch.  
+- **Learn through practical work**: This project can help understand programming concepts in a practical way by building a functional game from scratch.  
 
 
 ## Features
