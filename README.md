@@ -42,6 +42,9 @@ To run this Hangman game, ensure you have the following prerequisites for each l
     ```
   - If installed correctly, this command should display the installed .NET SDK version.
 - Run the console application
+- ```bash
+    dotnet run
+    ```
 
 ### Python
 
