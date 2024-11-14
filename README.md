@@ -48,7 +48,13 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### Python
 
-- **Python 3.x**: Download and install [Python 3.x](https://www.python.org/downloads/). You can verify the installation by running `python --version` in your terminal.
+To run the application in Python, follow these steps:
+
+1. Install Python 3 on your device (Windows/Mac OS/Linux) to execute Python code. You can find installation guidance and the download link [here](https://www.python.org/downloads/).
+2. Confirm the installation by running `python --version` or `python3 --version` in the terminal.
+3. Navigate to the root directory of the Python project and execute the application with:
+   ```bash
+   python currency_converter.py
 
 ### JavaScript
 
