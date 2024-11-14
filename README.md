@@ -2,8 +2,6 @@
 
 This repository consists of three separate implementations of the classic Hangman game in C#, Python, and JavaScript. Each version offers a console-based game where players guess letters to reveal a hidden word within a limited number of attempts. This project demonstrates language-specific approaches to the same game logic, providing a great reference for multi-language programming.
 
-## Table of Contents
-
 
 ## Table of Contents
 - [About the Game](#about-the-game)
@@ -18,8 +16,8 @@ This repository consists of three separate implementations of the classic Hangma
 - [Contributing](#contributing)
 - [License](#license)
 
-## About the Game
 
+## About the Game
 
 **Hangman** is a word-guessing game where the program randomly selects a hidden word. The player attempts to guess it by entering letters, with each correct guess revealing the letter’s position(s) in the word. If a guessed letter is incorrect, an attempt is deducted. The game ends when the player either successfully guesses the word or runs out of attempts.
 
