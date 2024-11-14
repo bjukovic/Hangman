@@ -87,4 +87,4 @@ hangman/
 ```
 
 
-This project was made for course Programming Languages CS305 in the Fall semester of 2024/2025 academic year and it is still in development.
+This project was made for course Programming Languages CS305 in the Fall semester of 2024/2025 academic year and it is **still in development**.
