@@ -31,17 +31,26 @@ This repository consists of three separate implementations of the classic Hangma
 
 ## Implementations
 
-Each version was developed and tested in **Visual Studio Code**, providing a consistent environment across all languages:
+ ### Prerequisites
 
-- **C#**: Developed as a .NET console application, ideal for cross-platform use.
-- **Python**: Minimalistic, terminal-based version compatible with Python 3.x.
-- **JavaScript**: A browser-based console game using JavaScript.   
+To run this Hangman game, ensure you have the following prerequisites for each language version:
 
-## Getting Started
+### C#
 
-### Prerequisites
+- **.NET SDK**: Install the [.NET SDK](https://dotnet.microsoft.com/download) for your platform to build and run the C# version of Hangman. This game is compatible with .NET Core 3.1 or later.
 
-Ensure you have the following installed:
+### Python
+
+- **Python 3.x**: Download and install [Python 3.x](https://www.python.org/downloads/). You can verify the installation by running `python --version` in your terminal.
+
+### JavaScript
+
+- **Web Browser**: A modern web browser (e.g., Chrome, Firefox, Edge, Safari) that supports JavaScript. Simply open the HTML file (`index.html`) in your browser to start the game.
+
+---
+
+Ensure you have the required tools installed for the language you intend to use. Once everything is set up, follow the instructions in the [Getting Started](#getting-started) section to build and run the game.
+
 
 - **Visual Studio Code**: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
 - **C#**: [.NET SDK](https://dotnet.microsoft.com/download)
@@ -123,10 +132,4 @@ hangman-game/
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This template provides a straightforward and clear overview, making it easier for users and contributors to understand and get started with the project. Feel free to personalize and adjust it based on any specific project details you want to add.
+This project was made for course Programming Languages CS305 in the Fall semester of 2024/2025 academic year.
