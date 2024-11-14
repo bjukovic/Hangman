@@ -7,8 +7,6 @@ This repository consists of three separate implementations of the classic Hangma
 - [About the Game](#about-the-game)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [How to Play](#how-to-play)
   - [Sample Gameplay](#sample-gameplay)
 - [Project Structure](#project-structure)
@@ -30,8 +28,6 @@ This repository consists of three separate implementations of the classic Hangma
 
 ## Getting Started
 
- ### Prerequisites
-
 To run this Hangman game, ensure you have the following prerequisites for each language version and have Visual Studio Code installed for C# and Python:
 - **Visual Studio Code**: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -50,55 +46,9 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ---
 
-Ensure you have the required tools installed for the language you intend to use. Once everything is downloaded, follow the instructions in the [Installation](#installation) section.
+Ensure you have the required tools installed for the language you intend to use.
 
 
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/hangman-game.git
-   cd hangman-game
-
-2. **Open the project in Visual Studio Code**:
-    ```bash
-     code .
-     ```
-
-
-#### C# (dotnet)
-
-1. Navigate to the C# folder:
-   ```bash
-   cd CSharp
-   ```
-2. Build and run:
-   ```bash
-   dotnet build
-   dotnet run
-   ```
-
-#### Python
-
-1. Navigate to the Python folder:
-   ```bash
-   cd Python
-   ```
-2. Run the game:
-   ```bash
-   python hangman.py
-   ```
-
-#### JavaScript
-
-1. **Clone the repository**:
-   Open a terminal and run the following command to clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/hangman-game.git
-   cd hangman-game
-2. Open the project in **Visual Studio Code**:
-
-3. 
 
 ## How to Play
 
