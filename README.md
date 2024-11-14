@@ -49,7 +49,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 -  Confirm the installation by running `python --version` or `python3 --version` in the terminal.
 - Navigate to the root directory of the Python project and execute the application with:
    ```bash
-   python currency_converter.py
+   python hangman.py
    ```
 
 ### JavaScript
@@ -58,7 +58,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
  - Verify the installation by running `node --version` in the terminal.
  - Go to the root directory of the JavaScript project and run the application file using:
     ```bash
-   node currencyConverter.js
+   node hangman.js
     ```
 
 
