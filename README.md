@@ -47,15 +47,11 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 - **Web Browser**: A modern web browser (e.g., Chrome, Firefox, Edge, Safari) that supports JavaScript. Simply open the HTML file (`index.html`) in your browser to start the game.
 
+- **Visual Studio Code**: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
 ---
 
 Ensure you have the required tools installed for the language you intend to use. Once everything is set up, follow the instructions in the [Getting Started](#getting-started) section to build and run the game.
 
-
-- **Visual Studio Code**: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
-- **C#**: [.NET SDK](https://dotnet.microsoft.com/download)
-- **Python**: [Python 3.x](https://www.python.org/downloads/)
-- **JavaScript**: A modern web browser (e.g., Chrome, Firefox)
 
 ### Installation
 
