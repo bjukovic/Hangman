@@ -75,7 +75,7 @@ Ensure you have the required tools installed for the language you intend to use.
 
 ```
 hangman/
-├── C#/               # C# implementation 
+├── CSharp/               # C# implementation 
 │   └── hangman.cs    
 │   
 ├── JavaScript/       # JavaScript implementation 
