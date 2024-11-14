@@ -35,15 +35,13 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 - **.NET SDK**: Install the [.NET SDK](https://dotnet.microsoft.com/download) for your platform to build and run the C# version of Hangman. This game is compatible with .NET Core 3.1 or later.
 - In the terminal you should verify the installation
-- Run the console application
-
-- *Verify Installation**:
   - Open a terminal or command prompt.
   - Run the command:
     ```bash
     dotnet --version
     ```
   - If installed correctly, this command should display the installed .NET SDK version.
+- Run the console application
 
 ### Python
 
