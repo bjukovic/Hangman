@@ -6,7 +6,6 @@ This repository consists of three separate implementations of the classic Hangma
 ## Table of Contents
 - [About the Game](#about-the-game)
 - [Features](#features)
-- [Implementations](#implementations)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -29,11 +28,12 @@ This repository consists of three separate implementations of the classic Hangma
 - **Score tracking**: Monitors incorrect attempts and provides feedback.
 - **Visual representation**: ASCII-based "hangman" figure to visually indicate progress.
 
-## Implementations
+## Getting Started
 
  ### Prerequisites
 
-To run this Hangman game, ensure you have the following prerequisites for each language version:
+To run this Hangman game, ensure you have the following prerequisites for each language version and have Visual Studio Code installed for C# and Python:
+- **Visual Studio Code**: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
 
 ### C#
 
@@ -47,10 +47,10 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 - **Web Browser**: A modern web browser (e.g., Chrome, Firefox, Edge, Safari) that supports JavaScript. Simply open the HTML file (`index.html`) in your browser to start the game.
 
-- **Visual Studio Code**: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
+
 ---
 
-Ensure you have the required tools installed for the language you intend to use. Once everything is set up, follow the instructions in the [Getting Started](#getting-started) section to build and run the game.
+Ensure you have the required tools installed for the language you intend to use. Once everything is downloaded, follow the instructions in the [Installation](#installation) section.
 
 
 ### Installation
