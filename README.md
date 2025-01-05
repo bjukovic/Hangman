@@ -76,7 +76,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
   npm install readline-sync
 - Navigate to the root folder of the project where `Program.js` is located and run the application:
   ```bash
-  node Program.js
+  node hangman.js
 
 
 Ensure you have the required tools installed for the language you intend to use.
