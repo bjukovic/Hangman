@@ -96,7 +96,7 @@ Ensure you have the required tools installed for the language you intend to use.
 ## Project Structure
 
 ```
-hangman/
+Hangman/
 ├── CSharp/               # C# implementation 
 │   └── Program.cs    
 │   
