@@ -53,15 +53,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
      dotnet --version
      ```
    - If installed correctly, this command should display the installed .NET SDK version.
-
-- **Open the Project**:
-   - Launch Visual Studio.
-   - Go to `File > Open > Project/Solution`.
-   - Navigate to the `CSharp` folder and open the `hangman.csproj` file.
-
-- **Build and Run**:
-   - Build the project: Press `Ctrl + Shift + B` or go to `Build > Build Solution`.
-   - Run the project: Press `F5` to debug or `Ctrl + F5` to run without debugging.
+  
 
 ### Python
 
