@@ -37,21 +37,16 @@ The main goals of this project are to:
 To run this Hangman game, ensure you have the following prerequisites for each language version:
 
 ### C#
-
-- **Visual Studio**:
-   - Install [Visual Studio](https://visualstudio.microsoft.com/) (Community, Professional, or Enterprise edition).
-   - During installation, ensure the `.NET desktop development` workload is selected.
-
-- **.NET SDK**:
-   - Install the [.NET SDK](https://dotnet.microsoft.com/download) for your platform. This game is compatible with .NET Core 3.1 or later.
-
-- **Verify Installation**:
-   - Open the `Developer Command Prompt for Visual Studio` or any terminal.
-   - Run the command:
+   - Install the [.NET SDK](https://dotnet.microsoft.com/download) on your device, you can find all the instructions on the linked site.
+   - To verify the installation open the terminal and run the command:
      ```bash
      dotnet --version
      ```
    - If installed correctly, this command should display the installed .NET SDK version.
+   - Then navigate to the root folder of the project and execute the application with:
+      ```bash
+     dotnet run
+     ```
   
 
 ### Python
