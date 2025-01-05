@@ -34,8 +34,7 @@ The main goals of this project are to:
 
 ## Getting Started
 
-To run this Hangman game, ensure you have the following prerequisites for each language version and have Visual Studio Code installed for C# and Python:
-- **Visual Studio Code**: [Download and install Visual Studio Code](https://code.visualstudio.com/download)
+To run this Hangman game, ensure you have the following prerequisites for each language version:
 
 ### C#
 
