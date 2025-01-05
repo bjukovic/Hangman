@@ -71,7 +71,7 @@ To run this Hangman game, ensure you have the following prerequisites for each l
     node --version
     ```
   - If installed correctly, this command should display the installed Node.js version.
-- Install the required `readline-sync` package:
+- Install the required `readline-sync` package for this program:
   ```bash
   npm install readline-sync
 - Navigate to the root folder of the project where `Program.js` is located and run the application:
