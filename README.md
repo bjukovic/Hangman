@@ -98,7 +98,7 @@ Ensure you have the required tools installed for the language you intend to use.
 ```
 hangman/
 ├── CSharp/               # C# implementation 
-│   └── hangman.cs    
+│   └── Program.cs    
 │   
 ├── JavaScript/       # JavaScript implementation    
 │   └── hangman.js    
