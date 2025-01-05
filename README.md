@@ -100,8 +100,7 @@ hangman/
 ├── CSharp/               # C# implementation 
 │   └── hangman.cs    
 │   
-├── JavaScript/       # JavaScript implementation 
-│   ├── index.html    
+├── JavaScript/       # JavaScript implementation    
 │   └── hangman.js    
 │   
 └── Python/           # Python implementation 
