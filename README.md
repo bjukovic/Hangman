@@ -63,9 +63,17 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### JavaScript
 
-- Open `index.html` in a web browser.
-- Open the developer console (shortcut: Shift + ⌘ + J on macOS or Shift + CTRL + J on Windows/Linux) to start playing the game.
-
+- **Node.js**: Install [Node.js](https://nodejs.org/) for your platform to run the JavaScript version of Hangman. This program is compatible with Node.js v12 or later.
+- In the terminal, verify the installation:
+  - Open a terminal or command prompt.
+  - Run the command:
+    ```bash
+    node --version
+    ```
+  - If installed correctly, this command should display the installed Node.js version.
+- Install the required `readline-sync` package:
+  ```bash
+  npm install readline-sync
 
 
 Ensure you have the required tools installed for the language you intend to use.
