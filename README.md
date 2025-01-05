@@ -39,18 +39,29 @@ To run this Hangman game, ensure you have the following prerequisites for each l
 
 ### C#
 
-- **.NET SDK**: Install the [.NET SDK](https://dotnet.microsoft.com/download) for your platform to build and run the C# version of Hangman. This game is compatible with .NET Core 3.1 or later.
-- In the terminal you should verify the installation
-  - Open a terminal or command prompt.
-  - Run the command:
-    ```bash
-    dotnet --version
-    ```
-  - If installed correctly, this command should display the installed .NET SDK version.
-- Navigate to the root folder of the project in C# and run the console application
-   ```bash
-    dotnet run
-    ```
+- **Visual Studio**:
+   - Install [Visual Studio](https://visualstudio.microsoft.com/) (Community, Professional, or Enterprise edition).
+   - During installation, ensure the `.NET desktop development` workload is selected.
+
+- **.NET SDK**:
+   - Install the [.NET SDK](https://dotnet.microsoft.com/download) for your platform. This game is compatible with .NET Core 3.1 or later.
+
+- **Verify Installation**:
+   - Open the `Developer Command Prompt for Visual Studio` or any terminal.
+   - Run the command:
+     ```bash
+     dotnet --version
+     ```
+   - If installed correctly, this command should display the installed .NET SDK version.
+
+- **Open the Project**:
+   - Launch Visual Studio.
+   - Go to `File > Open > Project/Solution`.
+   - Navigate to the `CSharp` folder and open the `hangman.csproj` file.
+
+- **Build and Run**:
+   - Build the project: Press `Ctrl + Shift + B` or go to `Build > Build Solution`.
+   - Run the project: Press `F5` to debug or `Ctrl + F5` to run without debugging.
 
 ### Python
 
